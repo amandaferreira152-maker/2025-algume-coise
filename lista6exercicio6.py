@@ -22,3 +22,4 @@ print("\nResumo da compra:")
 print(f"Total geral: R$ {total_geral:.2f}")
 print(f"Total de produtos alimentícios: R$ {total_alimenticios:.2f}")
 print(f"Total de outros produtos: R$ {total_outros:.2f}")
+#odeio programar 
